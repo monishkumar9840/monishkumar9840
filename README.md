@@ -8,33 +8,22 @@
 
 🛡️ About Me
 
-🎓 B.E. CSE (Cyber Security) Student
-🔐 Cybersecurity Enthusiast with a focus on practical security
-🔎 Exploring Digital & Memory Forensics
-🌐 Developing skills in Network & Web Application Security
-🤖 Exploring AI/ML applications in Cybersecurity
-🐍 Building security tools and projects with Python
-🚀 Aspiring Cybersecurity Engineer
+* 🎓 B.E. CSE (Cyber Security) Student
+* 🔐 Cybersecurity Enthusiast focused on practical security
+* 🔎 Exploring Digital & Memory Forensics
+* 🌐 Learning Network & Web Application Security
+* 🤖 Exploring AI/ML for Cybersecurity
+* 🐍 Building security projects with Python
+* 🚀 Aspiring Cybersecurity Engineer
 
-🔥 What I'm Currently Exploring
+🔥 Currently Exploring
 
-🔐 Cybersecurity & Ethical Hacking
-Developing practical skills in security assessment, reconnaissance, and defensive security.
-
-🌐 Network & Web Application Security
-Exploring network analysis, vulnerability assessment, and web security concepts.
-
-🕵️ Digital & Memory Forensics
-Learning how to analyze digital evidence, memory artifacts, processes, and suspicious activities.
-
-🤖 AI/ML for Cybersecurity
-Exploring how machine learning can assist with threat detection, security analysis, and digital forensics.
-
-🐍 Python for Security Automation
-Building practical Python-based tools to automate security and forensic analysis.
-
-🛡️ Security Tools & Labs
-Hands-on practice with tools such as Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Nikto, Autopsy, and FTK.
+* 🔐 **Ethical Hacking & Security Assessment**
+* 🌐 **Network & Web Application Security**
+* 🕵️ **Digital & Memory Forensics**
+* 🤖 **AI/ML for Threat Detection**
+* 🐍 **Python for Security Automation**
+* 🛡️ **Security Tools:** Nmap · Wireshark · Burp Suite · Metasploit · Nessus · Nikto · Autopsy · FTK
 
 <p align="center">
 

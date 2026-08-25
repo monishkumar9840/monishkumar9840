@@ -7,25 +7,34 @@
 <p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_GITHUB_URL"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:monishkumar9840@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 🛡️ About Me
+
 🎓 B.E. CSE (Cyber Security) Student
-🔐 Cybersecurity Enthusiast
-🔎 Interested in Digital & Memory Forensics
-🌐 Exploring Network & Web Application Security
-🤖 Interested in AI/ML for Cybersecurity
-🐍 Python 
+🔐 Cybersecurity Enthusiast with a focus on practical security
+🔎 Exploring Digital & Memory Forensics
+🌐 Developing skills in Network & Web Application Security
+🤖 Exploring AI/ML applications in Cybersecurity
+🐍 Building security tools and projects with Python
 🚀 Aspiring Cybersecurity Engineer
 
-I am a cybersecurity student passionate about understanding how systems
-can be protected against real-world threats.
-
-My interests include penetration testing, vulnerability assessment,
-network security, ethical hacking, digital forensics, and AI-enhanced
-security analysis.
-
-I enjoy learning through hands-on projects, security tools, internships,
-and practical experimentation.
-
 🔥 What I'm Currently Exploring
+
+🔐 Cybersecurity & Ethical Hacking
+Developing practical skills in security assessment, reconnaissance, and defensive security.
+
+🌐 Network & Web Application Security
+Exploring network analysis, vulnerability assessment, and web security concepts.
+
+🕵️ Digital & Memory Forensics
+Learning how to analyze digital evidence, memory artifacts, processes, and suspicious activities.
+
+🤖 AI/ML for Cybersecurity
+Exploring how machine learning can assist with threat detection, security analysis, and digital forensics.
+
+🐍 Python for Security Automation
+Building practical Python-based tools to automate security and forensic analysis.
+
+🛡️ Security Tools & Labs
+Hands-on practice with tools such as Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Nikto, Autopsy, and FTK.
 
 <p align="center">
 
